@@ -1,16 +1,7 @@
 blah blah
 
-The categories below are simplistic and imperfect and will improve with input.
+blah blah
 
-### Index transactions
-
-Open source technologies used to Index transactions. 
-
-**The Graph:**  
-- Website: [https://thegraph.com/en/](https://thegraph.com/en/)
-- Github: [https://github.com/graphprotocol](https://github.com/graphprotocol)  
-
-**TrueBlocks:**
 - Website:  [https://trueblocks.io/](https://)
 - Github: [https://github.com/trueblocks/trueblocks-core](https://)
 - Unchained Index specification: https://trueblocks.io/papers/2022/file-format-spec-v0.40.0-beta.pdf
