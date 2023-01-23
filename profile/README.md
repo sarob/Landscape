@@ -1,12 +1,4 @@
-## OpenData Community: useful projects
-### What is the ODC?
-The ODC is an open community dedicated to helping the web3 and crypto communities to use, analyze, and share data in an open way, as free as possible from centralized, proprietary, and non scalable approaches.
-
-This list is intended to be a growing list of projects that are open source that the community finds to be useful.  
-
-Please contribute either by openning an issue or a PR vs this repository or some other way you prefer. You might also be interested in providing comments to a basic plan as well, which is available as a HackMD document [here](https://hackmd.io/@epowell101/rk7ZdHCZo)
-
-### Project Categories
+blah blah
 
 The categories below are simplistic and imperfect and will improve with input.
 
